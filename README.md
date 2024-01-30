@@ -32,8 +32,7 @@
 
 ![김영재's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-youngjae&theme=github_dark&show_icons=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=youngjae459)](https://solved.ac/youngjae459/)
-
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKim-youngjae&count_bg=%2379C83D&title_bg=%23A1DF73&icon=datadog.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **Kim-youngjae/Kim-youngjae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
