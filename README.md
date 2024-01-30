@@ -1,6 +1,9 @@
-![IMG_7112](https://github.com/Kim-youngjae/Kim-youngjae/assets/62341313/ee20945f-b01f-49c0-8e41-5231d9335c84)![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=youngjae's%20Github&fontSize=50&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=youngjae's%20Github&fontSize=50&animation=fadeIn)
+
 
 <div align=center>
+  
+  
   <h1> ✏️ STACKS</h1>
   
   <img src="https://img.shields.io/badge/java-3776AB?style=for-the-badge&logo=java&logoColor=white">
